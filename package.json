@@ -1,0 +1,39 @@
+{
+  "name": "proseka-scorecards",
+  "version": "1.0.0",
+  "description": "A Project Sekai scorecard generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proseka",
+    "prosekai",
+    "project sekai",
+    "scorecards",
+    "scorecard",
+    "sega",
+    "rhythm game",
+    "rhythm",
+    "japanese",
+    "hatsune miku",
+    "kagamine rin",
+    "kagamine len",
+    "megurine luka",
+    "meiko",
+    "kaito",
+    "vocaloid",
+    "jpop",
+    "japanese pop",
+    "japanese",
+    "music"
+  ],
+  "author": "simplesentai",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
